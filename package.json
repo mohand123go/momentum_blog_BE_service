@@ -1,0 +1,22 @@
+{
+  "name": "momentum",
+  "version": "1.0.0",
+  "description": "backend service for momentum blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mohand123go/momentum_blog_BE_service.git"
+  },
+  "author": "Mohand mostafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohand123go/momentum_blog_BE_service/issues"
+  },
+  "homepage": "https://github.com/mohand123go/momentum_blog_BE_service#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
