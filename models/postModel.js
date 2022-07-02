@@ -11,6 +11,7 @@ const postSchema = new mongoose.Schema({
     blogCoverPhoto: String,
     blogTitle: String,
   profileId: String,
+  blogBrief: String,
   date: Date
 });
 

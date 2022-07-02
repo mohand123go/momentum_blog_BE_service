@@ -34,6 +34,7 @@ const createPost = async (req, res) => {
         blogTitle: req.body.blogTitle,
         profileId: 1,
         date: new Date(),
+        blogBrief:  req.body.blogBrief
         });
 
         console.log('gg', {
